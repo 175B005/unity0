@@ -16,8 +16,8 @@
 ```
 - hierarchy以下のcreate でいろんなオブジェクトが作れる。
 - textboxでスコア表示→text内容を変えていく
-- スクリプトを使いたいだけの場合は
-- 
+- スクリプトを使いたいだけの場合はobjectの一番上そのまま作れる。
+ - マネージャー機能など。。。
 ```cs
 public class manager : MonoBehaviour {
 
